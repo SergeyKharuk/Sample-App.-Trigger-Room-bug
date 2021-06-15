@@ -9,7 +9,7 @@
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 .DS_Store
-/buildgit commit -m "first commit"
+/build
 /captures
 .externalNativeBuild
 .cxx
